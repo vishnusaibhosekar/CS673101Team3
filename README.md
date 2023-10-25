@@ -12,52 +12,31 @@
 
 
 ## Far Vision for the Product
-"Services and Progress Notes" is a digital platform that connects service providers and consumers, emphasizing clarity and efficiency. It enables providers to showcase their services and consumers to easily book, track progress, and access historical data. Our goal is to redefine service management with trust and adaptability, striving to be the premier choice for service booking and progress tracking, continually improving based on user input to meet diverse needs.
+
+"Services and Progress Notes" is a comprehensive digital platform designed to facilitate efficient service management and progress tracking within agencies. It empowers agency managers to oversee and manage services effectively, enabling streamlined booking, tracking, and access to historical data. Our mission is to elevate service management standards, ensuring trust and adaptability within our internal operations. We are committed to continual improvement, catering to the specific needs and requirements of agencies for optimal service delivery.
 
 ## Near Vision for the Product
-*     Provide list of services
-* 	  Users can add/choose services
-*     Users can edit the services they have opted
-*     Store in DB (the choice of services of the users)
-*     A dashboard for staff and administrators to view a summary of ongoing service requests and progress notes.
+*     Service Provider Managers can access a dashboard to view the details of services
+* 	   Service Provider Managers can filter services based on various parameters
+*     Service Provider Managers can access a list of bookings/appointments
+*     Service Provider Managers should be able to edit/delete services and booking details
+*     Service Provider Managers can take feedback in the form of progress notes from patients
+*     Storing services data and progress-notes data in DB 
 
-# Stakeholders
-Users and Their Families  
-Care Givers and Health Care Providers  
-Agency Management  
-Vendors and Service Providers
-Government and Regulatory Bodies   
+# Stakeholders 
+* Agency Management  
+* Employees of the agency/case-manager 
 
 # User Persona Details
-1. **User Elderly Resident:**
-   - **Name:** Mary Johnson
-   - **Demographics:** 75-year-old female, living independently in a senior community.
-   - **Goals:** Mary wants to maintain her independence and receive the necessary care and assistance for daily activities, including medication management and housekeeping.
-   - **Needs:** She needs a simple and user-friendly application that allows her to request services, view her schedule, and communicate with caregivers. Clear and accessible progress notes help her understand her care plan.
+1. **Service Provider Manager (Sarah):**
+   - **Background:** Sarah is a dedicated service provider with several years of experience in catering to the needs of elderly residents.
+   - **Goals:** Sarah aims to efficiently manage her service provision, maintain accurate progress records, and ensure that the elderly residents receive the best possible care.
+   - **Needs:** She needs a user-friendly digital platform that simplifies the process of managing service appointments, recording progress notes, and accessing relevant client information. Streamlined communication tools help her coordinate effectively and address any concerns promptly. A clear overview of her schedule and client requirements is essential for her to provide timely and effective services.
 
-2. **Family Member:**
-   - **Name:** Michael Chen
-   - **Demographics:** 40-year-old male, the son of a resident living in an independent living facility.
-   - **Goals:** Michael wants peace of mind knowing that his mother is receiving quality care and staying healthy. He also wants to stay informed about her well-being.
-   - **Needs:** He needs access to a simplified version of the application that allows him to view his mother's schedule, progress notes, and receive important updates from caregivers. User-friendly communication features are essential for his involvement.
+2. **Employee of the Agency (Chris)**:
+   - **Background:** Chris is a compassionate and skilled caregiver specializing in providing support to elderly residents in their daily activities.
+   - **Goals:** Chris aims to deliver personalized and attentive care to each elderly resident, ensuring their comfort and well-being.
+   - **Needs:** He requires a reliable digital platform that helps him manage his service tasks, record important notes on residents' progress, and communicate effectively with the service coordinator. A user-friendly interface and clear guidelines on residents' specific requirements assist him in delivering tailored care efficiently and with empathy.
 
-3. **Caregiver:**
-   - **Name:** David Martinez
-   - **Demographics:** 35-year-old male, certified nursing assistant (CNA) working in an independent living facility.
-   - **Goals:** David's primary goal is to provide excellent care to residents efficiently and without errors. He also wants an easy way to communicate with staff and access resident information.
-   - **Needs:** He needs a user-friendly mobile app that helps him manage service requests, access residents' progress notes, and receive timely notifications. Efficient scheduling and real-time communication are crucial for his workflow.
-
-4. **Facility Administrator:**
-   - **Name:** Sarah Williams
-   - **Demographics:** 45-year-old female, facility administrator with years of experience in senior care.
-   - **Goals:** Sarah aims to ensure the smooth operation of the facility, maintain regulatory compliance, and enhance the overall quality of care provided.
-   - **Needs:** She requires a robust dashboard for monitoring service delivery, analyzing data for resource allocation, and ensuring that progress notes are accurate and comprehensive. Compliance features and reporting tools are vital for her responsibilities.
-
-5. **Regulatory Inspector:**
-   - **Name:** Emily Turner
-   - **Demographics:** 50-year-old female, a government official responsible for inspecting and auditing independent living facilities.
-   - **Goals:** Emily's primary goal is to ensure that facilities adhere to regulatory standards and provide high-quality care to residents.
-   - **Needs:** She requires access to the system to review service documentation, progress notes, and facility compliance records. Easy access to comprehensive data and reporting tools is crucial for her evaluations.
-   
-
-# Product Backlog - [Backlog](https://www.pivotaltracker.com/n/projects/2678599)
+# Product Backlog
+* [Pivotal Tracker](https://www.pivotaltracker.com/n/projects/2678599)
