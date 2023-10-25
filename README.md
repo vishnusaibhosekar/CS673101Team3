@@ -6,9 +6,9 @@
 |-------------------------|-------------------------|
 | Archith Reddy Billa     | UI/UX                   |
 | Joy Patel               | Product Manager         |
-| Vishnu Sai Bhosekar     | Quality Assurance       |
+| Vishnu Sai Bhosekar     | Microservices           |
 | Peddineni Krishna Vamsi | Data Architect          |
-| Vivekananda Peddineni   | Microservices           |
+| Vivekananda Peddineni   | Quality Assurance       |
 
 
 ## Far Vision for the Product
